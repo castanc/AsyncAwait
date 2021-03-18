@@ -1,0 +1,26 @@
+Presentation
+https://www.canva.com/design/DAEZIC6bl60/vkPIHh-UltrWnsq5HTG3Xw/edit
+
+
+Async Programming : Introduction to Async/Await on ASP.NET
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2014/october/async-programming-introduction-to-async-await-on-asp-net
+
+Task-based asynchronous pattern
+https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap
+
+Async in depth
+https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth
+
+
+Asynchronous programming
+https://docs.microsoft.com/en-us/dotnet/csharp/async#:~:text=The%20async%20keyword%20turns%20a,used%20inside%20an%20async%20method.
+
+Async/await in TypeScript
+https://blog.logrocket.com/async-await-in-typescript/
+
+async await in javascript
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function
+
+
+
+
