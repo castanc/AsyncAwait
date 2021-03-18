@@ -24,6 +24,11 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_
 promises
 https://basarat.gitbook.io/typescript/future-javascript/promise
 
+c# foreach parallel
+https://www.c-sharpcorner.com/UploadFile/efa3cf/parallel-foreach-vs-foreach-loop-in-C-Sharp/
+
+
+
 
 
 
