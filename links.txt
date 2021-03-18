@@ -21,6 +21,12 @@ https://blog.logrocket.com/async-await-in-typescript/
 async await in javascript
 https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function
 
+promises
+https://basarat.gitbook.io/typescript/future-javascript/promise
+
+
+
+
 
 
 
