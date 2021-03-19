@@ -27,6 +27,14 @@ https://basarat.gitbook.io/typescript/future-javascript/promise
 c# foreach parallel
 https://www.c-sharpcorner.com/UploadFile/efa3cf/parallel-foreach-vs-foreach-loop-in-C-Sharp/
 
+c# yield
+https://www.youtube.com/watch?v=BIPLra58WzY&t=314s
+
+javascript iterators
+https://www.youtube.com/watch?v=cgcqe6TNIzU
+
+
+
 
 
 
