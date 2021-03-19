@@ -34,6 +34,10 @@ javascript iterators
 https://www.youtube.com/watch?v=cgcqe6TNIzU
 
 
+hdekloen github patrones js
+https://github.com/powerhdeleon/patronesjavascript
+
+
 
 
 
